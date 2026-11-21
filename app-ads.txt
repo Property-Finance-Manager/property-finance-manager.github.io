@@ -1,0 +1,6 @@
+# app-ads.txt — Property Finance (Android)
+# Authorised Sellers for Apps (IAB Tech Lab). AdMob crawls this file at the
+# ROOT of the domain given as the developer website on the Google Play store
+# listing, so it must stay reachable at https://<domain>/app-ads.txt
+# AdMob publisher ID: pub-2458076513370174
+google.com, pub-2458076513370174, DIRECT, f08c47fec0942fa0
